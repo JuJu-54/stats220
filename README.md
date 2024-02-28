@@ -5,4 +5,4 @@
 * Let's go
 * We won't be beat
 
-Link to my ![Steam profile](https://steamcommunity.com/id/_JuJu_/)
+Link to my [Steam profile](https://steamcommunity.com/id/_JuJu_/)
