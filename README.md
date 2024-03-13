@@ -1,6 +1,6 @@
 # **STATS220 Demo**
 
-*Planets in the Solar System*
+# *Planets in the Solar System*
 * Mercury
 * Venus
 * Earth
@@ -10,7 +10,7 @@
 * Uranus
 * Neptune
 
-*Halo games ranking*
+# *Halo games ranking*
 1. Halo 2
 2. Halo Infinite
 3. Halo Combat Evolved
