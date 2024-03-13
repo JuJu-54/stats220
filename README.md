@@ -1,6 +1,9 @@
 # **STATS220 Demo**
 
-# *Planets in the Solar System*
+Hello?
+Is this thing on?
+
+# Planets in the Solar System
 * Mercury
 * Venus
 * Earth
@@ -10,7 +13,7 @@
 * Uranus
 * Neptune
 
-# *Halo games ranking*
+# Halo games ranking (The ones I've played)
 1. Halo 2
 2. Halo Infinite
 3. Halo Combat Evolved
@@ -19,4 +22,4 @@
 6. Halo 4
 7. Halo Reach
 
-Link to my [Steam profile](https://steamcommunity.com/id/_JuJu_/)
+*Click [here](https://www.youtube.com/watch?v=6n3pFFPSlW4) to watch a YouTube video.*
